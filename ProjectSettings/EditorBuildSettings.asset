@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e8616cc322d134e40a52352cb75f74da
+  - enabled: 1
+    path: Assets/Scenes/TowerSelection.unity
+    guid: 7ddd895b77288d04caa269d32e7236f4
+  - enabled: 1
+    path: Assets/Scenes/MapSelection.unity
+    guid: f2de36ec66417a942bc719962a1c91df
+  - enabled: 1
+    path: Assets/Scenes/Map1.unity
+    guid: dbe68e13a2727194dbc33e690ab7fca1
+  m_configObjects: {}
